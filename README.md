@@ -1,5 +1,5 @@
-# Help and Support [Admin](https://telegram.dog/MaxxRider)
-# working example group [Leech Here](https://telegram.dog/joinchat/OV5y_FarWaGaNYUIYr6J9w)
+# Help and Support [Admin](https://telegram.dog/Mrvishal_bot)
+# working example group [None😬] Almost all dead
 
 # Telegram Torrent Leecher 🔥🤖
 
@@ -35,6 +35,11 @@ A Telegram Torrent (and youtube-dl) Leecher based on [Pyrogram](https://github.c
 # Test Button for Maxx Sur
 [Test](https://dashboard.heroku.com/new?button-url=https://github.com/MaxxRider2/master/Max-Torrent-Leech-V2)
 
+
+# Commands 
+   Need brain 🧠 Get and show then i will give commands list 😂
+
+ 
 ## Credits, and Thanks to
 * Me
 * [MaxxSur]
