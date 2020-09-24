@@ -32,15 +32,12 @@ A Telegram Torrent (and youtube-dl) Leecher based on [Pyrogram](https://github.c
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 
-# Test Button for Maxx Sur
-[Test](https://dashboard.heroku.com/new?button-url=https://github.com/MaxxRider2/master/Max-Torrent-Leech-V2)
-
-
 # Commands 
    Need brain 🧠 Get and show then i will give commands list 😂
 
  
 ## Credits, and Thanks to
+
 * Me
 * [MaxxSur]
 * [GautamKumar)](https://github.com/gautamajay52/TorrentLeech-Gdrive) 😬
