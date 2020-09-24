@@ -23,6 +23,10 @@ A Telegram Torrent (and youtube-dl) Leecher based on [Pyrogram](https://github.c
     
 
 
+#Deploy Dont tap it visitors 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+
+#Test
 [Test](https://dashboard.heroku.com/new?button-url=https://github.com/MaxxRider2/master/Max-Torrent-Leech-V2)
 
 ## Credits, and Thanks to
