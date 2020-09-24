@@ -20,17 +20,25 @@ A Telegram Torrent (and youtube-dl) Leecher based on [Pyrogram](https://github.c
     ✓ Added /renewme command to clear the downloads which are not deleted automatically.
     ✓ Added support for youtube playlist 😐
     ✓
+    | Thats it project stopped by gautam sir due to heroku suspension issue
     
 
+    
 
-#Deploy Dont tap it visitors 
+# Better deploy at vps 😏
+
+# Deploy Button 
+ Dont tap it visitors 
+
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 
-#Test
+# Test Button for Maxx Sur
 [Test](https://dashboard.heroku.com/new?button-url=https://github.com/MaxxRider2/master/Max-Torrent-Leech-V2)
 
 ## Credits, and Thanks to
-* [GautamKumar(me)](https://github.com/gautamajay52/TorrentLeech-Gdrive) 😬
+* Me
+* [MaxxSur]
+* [GautamKumar)](https://github.com/gautamajay52/TorrentLeech-Gdrive) 😬
 * [SpEcHiDe](https://github.com/SpEcHiDe/PublicLeech) for his wonderful code😚
 * [Rclone Team](https://rclone.org) for theirs awesome tool☁️
 * [Dan Tès](https://telegram.dog/haskell) for his [Pyrogram Library](https://github.com/pyrogram/pyrogram)
